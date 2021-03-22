@@ -1,0 +1,73 @@
+[{
+    "date": 0,
+    "hits": 0,
+    "unique": 0,
+    "registration": 0,
+    "demoRegistration": 0,
+    "conversion": 0,
+    "deposit": 2,
+    "ftd": 0,
+    "deals": 0,
+    "profit": 22.17
+},
+{
+    "date": 0,
+    "hits": 0,
+    "unique": 0,
+    "registration": 0,
+    "demoRegistration": 0,
+    "conversion": 0,
+    "deposit": 1,
+    "ftd": 0,
+    "deals": 0,
+    "profit": 0.34
+},
+{
+    "date": 0,
+    "hits": 0,
+    "unique": 0,
+    "registration": 0,
+    "demoRegistration": 0,
+    "conversion": 0,
+    "deposit": 2,
+    "ftd": 0,
+    "deals": 0,
+    "profit": 3.34
+},
+{
+    "date": 0,
+    "hits": 0,
+    "unique": 0,
+    "registration": 1,
+    "demoRegistration": 1,
+    "conversion": 0,
+    "deposit": 1,
+    "ftd": 0,
+    "deals": 0,
+    "profit": 12.42
+},
+{
+    "date": 0,
+    "hits": 0,
+    "unique": 0,
+    "registration": 0,
+    "demoRegistration": 0,
+    "conversion": 0,
+    "deposit": 0,
+    "ftd": 0,
+    "deals": 0,
+    "profit": 10.48
+},
+{
+    "date": 0,
+    "hits": 0,
+    "unique": 0,
+    "registration": 0,
+    "demoRegistration": 0,
+    "conversion": 0,
+    "deposit": 0,
+    "ftd": 0,
+    "deals": 0,
+    "profit": 1.12
+}
+]
